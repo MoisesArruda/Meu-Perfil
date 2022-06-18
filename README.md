@@ -1,9 +1,9 @@
 ### Seja bem-vindo! Espero que encontre projetos que lhe agrade.
 
 
-- 🔭Projetos envolvendo SQL,PBI,Python,Pentaho e Clouds
+- 🔭Projetos envolvendo SQL,PBI,Python,Pentaho e Google Cloud
 - 🌱 Atualmente estudo tecnologias e linguaguens voltadas a análise e engenharia de dados
-- 🤔 Em busca de novos projetos e oportunidades voltadas a área
+- 🤔 Em busca de novos projetos e oportunidades
 - 📫 contate-me no e-mail - moises_arruda@outlook.com
 
 <div align="center">
